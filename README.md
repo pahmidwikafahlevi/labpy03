@@ -1,13 +1,14 @@
 # labpy03
-Nama: Pahmi Dwika Fahlevi
-nim: 312510389
-kelas: TI.25.C5
+# Nama: Pahmi Dwika Fahlevi
+# nim: 312510389
+# kelas: TI.25.C5
 
 latihan 1 python 
 algoritma
 Mulai.
 
 1.Import fungsi random() dari modul random.
+
 2.Minta pengguna memasukkan nilai n (jumlah bilangan acak yang ingin ditampilkan).
 
 3.Inisialisasikan variabel penghitung i = 1.
